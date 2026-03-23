@@ -1,0 +1,5 @@
+{
+  "name": "Trackmondo",
+  "description": "Vehicle tracking and fleet management app for businesses.",
+  "requestFramePermissions": ["geolocation"]
+}
